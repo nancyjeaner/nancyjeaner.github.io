@@ -1,0 +1,55 @@
+
+body {
+    background-color: lightblue;
+    }
+
+.lyft-info img   {
+
+     width:285px 
+
+ }
+
+ .home-page-jumbotron  {
+
+    background-color: tomato;
+    position:realtive;
+    top:50px;
+    height:750px;
+    background-image:url("https://images.alphacoders.com/121/121813.jpg");
+    color:white;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
+    .education {
+    border: 2px solid blue;
+    }
+
+    .education h2 {
+    	color:green;
+    }
+
+    .travel {
+    border: 2px solid red;
+    }
+
+    .books {
+    border: 2px solid green;
+    }
+
+    #special {
+    	border: 8px solid purple;
+    }
+*/
